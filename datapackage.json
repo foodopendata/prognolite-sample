@@ -1,0 +1,31 @@
+{
+  "name": "food-prognolite-sample",
+  "title": "Prognolite Sample Dataset for food.opendata.ch",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2017-12-18",
+  "licenses": [],
+  "sources": [
+    {
+      "name": "Prognolite AG",
+      "web": "http://www.prognolite.ch"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/weather-data.csv",
+      "schema": {
+        "fields": []
+      }
+    },{
+        "path": "data/Juckerfarm_PX_to_Prognlite_Export_20170817T183216.csv",
+        "schema": {
+          "fields": []
+        }
+      }
+  ],
+  "maintainers":[{
+    "name": "School of Data Switzerland",
+    "web": "https://www.schoolofdata.ch/"
+  }]
+}
