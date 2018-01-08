@@ -2,7 +2,7 @@ This is a Data Package with a sample of data provided by the Swiss startup [Prog
 
 > Prognolite solves one of the biggest problems of the restaurants - the unknown guests in the future. This problem leads to large inefficiencies in personnel planning and food purchasing, which causes a lot of food waste and high personnel costs. In addition, this can cause long waiting times, which does not happen if the number of guests were known in advance. With data on the cash register system and other data such as weather data and holidays, we can predict the number of guests / items sold in the future. Of course you can do other interesting things with the data.
 
-**[PREVIEW](http://data.okfn.org/tools/view?url=https://raw.github.com/schoolofdata-ch/food-prognolite-sample/master/datapackage.json)** (data.okfn.org)
+**[PREVIEW](http://data.okfn.org/tools/view?url=https://raw.github.com/foodopendata/prognolite-sample/master/datapackage.json)** (data.okfn.org)
 
 # Source
 
